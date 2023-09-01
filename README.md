@@ -1,5 +1,4 @@
-# React.js Project
-
+# React.js Notes
 ## Component-based Structure
 
 ![Component Structure](https://github.com/Niltiwari7/React_js/assets/93751356/0a8b661d-8770-4235-bc5c-e4ee03caffe4)
