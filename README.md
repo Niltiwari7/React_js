@@ -30,3 +30,21 @@ export default function MyApp() {
     </div>
   );
 }
+```
+## Writing first program in the app js file
+```jsx
+function App(){
+  return(
+    <div className="App">
+      <h1>Hello  World!</h1>
+    </div>
+  )
+}
+
+export default App;
+```
+
+**output**
+
+
+![image](https://github.com/Niltiwari7/React_js/assets/93751356/01b671d7-186e-439b-842e-08b6bdaae959)
