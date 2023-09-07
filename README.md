@@ -31,7 +31,7 @@ export default function MyApp() {
   );
 }
 ```
-## Writing first program in the app js file
+## Hello world
 ```jsx
 function App(){
   return(
