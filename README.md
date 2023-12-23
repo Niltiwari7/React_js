@@ -69,3 +69,15 @@ React keeps a lightweight representation of the real DOM in the memory, and that
 
 ## 5. What is the difference between the ES6 and ES5 standards?
 ![image](https://github.com/Niltiwari7/React_js/assets/93751356/0c1d1a8f-ab87-4385-bb1c-dd0c6d620401)
+
+## 6. What is an event in React?
+An event is an action that a user or system may trigger, such as pressing a key, a mouse click, etc
+
+## 7. What are synthetic events in React?
+Synthetic events combine the response of different browser's native events into one API, ensuring that the events are consistent across different browsers.
+
+![image](https://github.com/Niltiwari7/React_js/assets/93751356/cda848db-a53f-4c6f-8c91-929317953b4e)
+
+
+
+
