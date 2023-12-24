@@ -78,6 +78,12 @@ Synthetic events combine the response of different browser's native events into 
 
 ![image](https://github.com/Niltiwari7/React_js/assets/93751356/cda848db-a53f-4c6f-8c91-929317953b4e)
 
+## 8.  Explain how lists work in React
+-  We create lists in React as we do in regular JavaScript. Lists display data in an ordered format
+-  The traversal of lists is done using the map() function
+-  ![image](https://github.com/Niltiwari7/React_js/assets/93751356/9ec94816-77bb-444a-9afa-37d0330cc20a)
+
+
 
 
 
